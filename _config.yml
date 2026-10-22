@@ -1,0 +1,55 @@
+# =========================================================
+# Website-Einstellungen
+# =========================================================
+
+title: "Nordfuchs"
+description: "Persönliche Website, Projekte und Informationen."
+
+url: "https://nordfuchs.github.io"
+baseurl: ""
+
+lang: "de-DE"
+timezone: "Europe/Berlin"
+
+
+# =========================================================
+# Theme: GitHub Primer
+# =========================================================
+
+remote_theme: "pages-themes/primer@v0.6.0"
+
+show_downloads: false
+
+
+# =========================================================
+# Jekyll-Plugins
+# =========================================================
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+
+# =========================================================
+# Markdown und Syntaxhervorhebung
+# =========================================================
+
+markdown: kramdown
+
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+
+# =========================================================
+# Dateien, die Jekyll nicht veröffentlichen soll
+# =========================================================
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md

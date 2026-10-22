@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* =========================================
+   Eigene CSS-Anpassungen für Nordfuchs
+   ========================================= */
+
+/* Allgemeine Schrift */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Hintergrund und Text */
+body {
+    background-color: #f5f5f5;
+    color: #292929;
+}
+
+/* Überschriften */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+    color: #264653;
+}
+
+/* Links */
+.markdown-body a {
+    color: #287c8e;
+}
+
+.markdown-body a:hover {
+    color: #164e5a;
+}
+
+/* Trennlinien */
+.markdown-body hr {
+    border-color: #d0d7de;
+}
+
+/* Bilder */
+.markdown-body img {
+    border-radius: 6px;
+}
+
+/* Codeblöcke */
+.markdown-body pre {
+    border-radius: 8px;
+}
