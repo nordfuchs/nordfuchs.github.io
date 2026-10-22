@@ -33,4 +33,4 @@ ISBN EPUB: 978-3-8186-2503-0
 Das Buch _Plants for free_, welches aus dem Französischen übersetzt wurde, ist komplett per Hand gezeichnet, jede einzelne Seite. Es ist absolut Liebenswert und ein Manifest für das Selbst-ausprobieren und gibt erste Tipps an die Hand. Mit viel Wortwitz, Biss und Humor wird der erste Funken zur Pflanzenliebe entfacht. Ich würde dieses Buch jedem Menschen schenken, der gerade beginnt, sich für Pflanzen und Pflanzenzucht zu interessieren. Ich bin von dem Buch absolut begeistert.
 
 ---  
-[Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Startseite](/neuewurzeln/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)

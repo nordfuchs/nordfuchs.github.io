@@ -191,4 +191,4 @@ die von mir veranlasste Datenverarbeitung ändert, werde ich
 diese Datenschutzerklärung entsprechend aktualisieren.
 
 ---  
-[Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Impressum](/impressum/) | [Zurück zur Hauptseite](/)
