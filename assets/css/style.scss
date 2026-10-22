@@ -49,4 +49,7 @@ body {
     border-radius: 8px;
 }
 
-h1 a {display:none;}
+.markdown-body h1:first-of-type {
+    border-bottom-color: transparent;
+    display: none;
+}
