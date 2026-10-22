@@ -11,7 +11,7 @@ Zwar gibt es auch Efeu in unmittelbarer Nachbarschaft, aber ich finde es zum ein
 An einer Robinie *(Robinia pseudoacacia)* sehe ich diesen schönen Efeu. Ich möchte eigentlich genau den haben, aber der ist so fest mit dem Stamm verbunden, dass ich wohl beim Versuch, den Efeu zu lösen, versehentlich ein paar kleine Haftwurzeln abreiße. Ich lasse jeden weiteren Versuch sein und entdecke auf dem Boden noch weitere Stränge von dem Efeu. Von einem schneide ich ein ca. 15 cm langes Stück ab und wickle das abgeschnittene Ende direkt in feuchtes Küchenpapier, lege den Efeu in den Ziplock-Beutel, verschließe ihn und verstaue ihn im Rucksack.
 
 ![](./PXL_20261021_102746249.RAW-01_1280.jpg)
-*Efeu *(Hedera helix)* wächst an einer Robinie *(Robinia pseudoacacia)*.*
+*Efeu (Hedera helix) wächst an einer Robinie (Robinia pseudoacacia).*
 
 Auf dem Boden liegend entdecke ich einen kleinen Ast, an dem ich nur noch das filigrane Skelett der Blätter sehe. Sie sehen super schön aus. Ich nehme diesen Ast mit, denn die Blätter möchte ich zuhause gerne pressen. Sie geben sicherlich einen schönen Schmuck ab.
 
