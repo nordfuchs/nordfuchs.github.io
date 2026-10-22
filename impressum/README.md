@@ -15,3 +15,6 @@ E-Mail: moin@schmittstefan.de
 Stefan Schmitt  
 Hohenmoorstraße 37  
 26135 Oldenburg
+
+---  
+[Impressum](/impressum/) | [Datenschutz](/datenschutz/)

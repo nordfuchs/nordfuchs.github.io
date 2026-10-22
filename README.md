@@ -3,4 +3,4 @@ Ein Sammelsurium an Seiten.
 [Neue Wurzeln](neuewurzeln)
 
 ---  
-[Impressum](/impressum/)
+[Impressum](/impressum/) | [Datenschutz](/datenschutz/)

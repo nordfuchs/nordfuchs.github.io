@@ -5,5 +5,4 @@ Ein kleiner Blog über mein neues Hobby: Pflanzenzucht.
 [2026-10-20: Schlaufuchs](2026-10-20_schlaufuchs)
 
 ---  
-[Impressum](/impressum/)
-
+[Impressum](/impressum/) | [Datenschutz](/datenschutz/)
