@@ -99,7 +99,39 @@ Für die Verarbeitung personenbezogener Daten auf externen
 Webseiten sind deren jeweilige Betreiber verantwortlich.
 Es gelten die Datenschutzbestimmungen der jeweiligen Anbieter.
 
-## 7. Kontaktaufnahme per E-Mail
+## 7. Spotify-Albumcover und Metadaten
+
+Auf dieser Website werden im Rahmen meines persönlichen, nicht kommerziellen Tagebuchs Informationen zu Musikalben veröffentlicht. Dazu gehören insbesondere Albumcover, Künstlernamen, Albumtitel und Tracktitel.
+
+### Herkunft der Inhalte
+
+Die Album- und Trackmetadaten werden über die Spotify Web API abgerufen und anschließend in statischen Markdown-Dateien auf dieser Website veröffentlicht. Der Abruf der Metadaten erfolgt bei der Erstellung der Beiträge. Beim bloßen Besuch meiner Website wird die Spotify Web API nicht automatisch aufgerufen.
+
+### Einbindung externer Albumcover
+
+Die Albumcover werden über Bildadressen von Spotify, insbesondere über die Domain `i.scdn.co`, direkt von den Servern des Anbieters geladen. Die Bilder werden nicht auf meinem eigenen Webspace gespeichert.
+
+Beim Aufruf einer Seite mit einem eingebundenen Albumcover stellt der Browser automatisch eine Verbindung zum entsprechenden Bildserver her. Dabei wird insbesondere die IP-Adresse des Besuchers an den Anbieter übermittelt. Abhängig von der technischen Konfiguration können weitere Verbindungsdaten, beispielsweise der Zeitpunkt des Abrufs, die angeforderte Bildadresse und Informationen zum verwendeten Browser, verarbeitet werden.
+
+Diese Datenübermittlung findet bereits beim Laden der Seite beziehungsweise des Albumcovers statt. Ein vorheriger Klick auf das Bild ist dafür nicht erforderlich.
+
+### Zweck und Rechtsgrundlage
+
+Die Darstellung der Albumcover und Metadaten dient der Dokumentation meiner musikalischen Interessen sowie der anschaulichen Präsentation und Zuordnung der jeweiligen Musikalben.
+
+Soweit ich für die Einbindung der externen Bilder datenschutzrechtlich verantwortlich bin, erfolgt die Verarbeitung auf Grundlage meines berechtigten Interesses an einer anschaulichen Gestaltung und an der Bereitstellung weiterführender Informationen zu den dargestellten Musikalben gemäß Art. 6 Abs. 1 lit. f DSGVO.
+
+### Weiterführende Links und Datenschutz bei Spotify
+
+Die dargestellten Albumcover und gegebenenfalls die zugehörigen Albumtitel verlinken auf die entsprechenden Inhalte bei Spotify. Wenn du einen solchen Link anklickst, wird eine Verbindung zu Spotify hergestellt. Für die anschließende Verarbeitung personenbezogener Daten durch Spotify gelten die Datenschutzbestimmungen des Anbieters.
+
+Auf die weitere Verarbeitung von Daten durch Spotify, insbesondere auf Speicherdauer und mögliche internationale Datenübermittlungen, habe ich keinen Einfluss.
+
+Weitere Informationen findest du in der [Datenschutzerklärung von Spotify](https://www.spotify.com/de/legal/privacy-policy/).
+
+Die auf dieser Website dargestellten Albumcover und Metadaten werden ausschließlich zur Dokumentation und Präsentation von Musikalben verwendet. Ich setze dafür keine Spotify-Player, Audio-Streams oder personalisierten Wiedergabefunktionen ein.
+
+## 8. Kontaktaufnahme per E-Mail
 
 Wenn du mich per E-Mail kontaktierst, verarbeite ich die von dir
 übermittelten Angaben. Dazu gehören insbesondere deine
@@ -121,7 +153,7 @@ Bei der Übermittlung und Speicherung von E-Mails werden außerdem
 die technischen Dienste der beteiligten E-Mail-Anbieter verwendet.
 Deren eigene Datenschutzbestimmungen sind ebenfalls zu beachten.
 
-## 8. Datenübermittlung in andere Länder
+## 9. Datenübermittlung in andere Länder
 
 GitHub weist darauf hin, dass personenbezogene Daten in
 verschiedenen Ländern, darunter den USA, gespeichert und verarbeitet
@@ -139,7 +171,7 @@ https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-s
 Ich selbst übermittle über diese Website keine Besucherdaten an
 Analyse- oder Werbedienste.
 
-## 9. Speicherdauer
+## 10. Speicherdauer
 
 Ich erstelle und verwalte selbst keine Besucherprofile und führe
 keine eigenen Besucherprotokolle.
@@ -152,7 +184,7 @@ Datenschutzerklärung von GitHub zu entnehmen.
 Für E-Mail-Nachrichten gelten die Angaben im Abschnitt
 „Kontaktaufnahme per E-Mail“.
 
-## 10. Rechte betroffener Personen
+## 11. Rechte betroffener Personen
 
 Betroffene Personen haben im Rahmen der gesetzlichen
 Voraussetzungen insbesondere folgende Rechte:
@@ -178,13 +210,13 @@ Darüber hinaus besteht gemäß Art. 77 DSGVO das Recht,
 Beschwerde bei einer zuständigen Datenschutzaufsichtsbehörde
 einzulegen.
 
-## 11. Automatisierte Entscheidungsfindung
+## 12. Automatisierte Entscheidungsfindung
 
 Ich selbst verwende diese Website nicht zur automatisierten
 Entscheidungsfindung einschließlich Profiling im Sinne von
 Art. 22 DSGVO.
 
-## 12. Änderungen dieser Datenschutzerklärung
+## 13. Änderungen dieser Datenschutzerklärung
 
 Wenn sich die technische Ausgestaltung dieser Website oder
 die von mir veranlasste Datenverarbeitung ändert, werde ich
