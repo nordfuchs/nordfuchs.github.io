@@ -8,12 +8,9 @@ Ein paar Notizen rund um meinen Glauben: das Christentum.
 
 [Jeremia 29,11-14, GNB](https://www.bibleserver.com/GNB/Jeremia29%2C11-14)
 
-
-
 ---
 
 Quellangaben: Alle Zitate sind von [bibleserver.com](https://bibleserver.com) aus der *Gute Nachricht Bibel*, durchgesehene Neuausgabe, © 2018 [Deutsche Bibelgesellschaft](https://die-bibel.de/), Stuttgart
 
----
-
+---  
 [Hauptseite](/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)

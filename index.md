@@ -13,7 +13,7 @@ Blog-Übersicht:
   - [Neue Wurzeln](neuewurzeln)   
   Mein neues altes Hobby: Pflanzenvermehrung  
   
-  - [Seelenfrikadelle](seelenfrikdadelle)   
+  - [Seelenfrikadelle](seelenfrikadelle)   
   Rezepte - lecker lecker.  
   
   - [Umzug nach Hamburg](umzug)  
