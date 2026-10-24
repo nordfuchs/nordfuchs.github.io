@@ -14,3 +14,5 @@ Quellangaben: Alle Zitate sind von [bibleserver.com](https://bibleserver.com) au
 
 ---  
 [Hauptseite](/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)
+
+Domain: **gottistmeinhirte.de**

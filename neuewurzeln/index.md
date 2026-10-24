@@ -8,3 +8,5 @@ Ein kleiner Blog über mein neues Hobby: Pflanzenzucht.
 
 ---  
 [Hauptseite](/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)
+
+Domain: **neuewurzeln.de**
