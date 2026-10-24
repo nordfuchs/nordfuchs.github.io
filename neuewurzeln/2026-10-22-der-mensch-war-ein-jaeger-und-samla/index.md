@@ -19,4 +19,4 @@ Gekauft habe ich [SAMLA Box, transparent, 56x39x28 cm/45 l](https://www.ikea.com
 OK, war also nicht ganz das, was ich ursprünglich geplant hatte, aber hey: die nächste Box kommt bestimmt. Dann aber erst nach unserem Umzug.
 
 ---  
-[Startseite](/neuewurzeln/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Startseite](/neuewurzeln/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)

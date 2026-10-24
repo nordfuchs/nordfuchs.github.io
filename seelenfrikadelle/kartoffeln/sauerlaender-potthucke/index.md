@@ -35,4 +35,4 @@
 | 4 | 8 | 12 | Tl. Salz |
 
 ---  
-[Kategorie: Kartoffeln](../) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Kategorie: Kartoffeln](../) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)

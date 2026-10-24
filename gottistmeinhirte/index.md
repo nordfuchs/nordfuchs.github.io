@@ -13,4 +13,4 @@ Ein paar Notizen rund um meinen Glauben: das Christentum.
 Quellangaben: Alle Zitate sind von [bibleserver.com](https://bibleserver.com) aus der *Gute Nachricht Bibel*, durchgesehene Neuausgabe, © 2018 [Deutsche Bibelgesellschaft](https://die-bibel.de/), Stuttgart
 
 ---  
-[Hauptseite](/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Hauptseite](/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)

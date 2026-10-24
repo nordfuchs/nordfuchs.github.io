@@ -47,4 +47,4 @@ Eigentlich möchte ich die Blätter auf Kaffeefilter legen, habe aber anscheinen
 *Ein Blatt, bei dem fast nur noch das Skelett zu sehen ist, liegt auf Papier*.
 
 ---  
-[Startseite](/neuewurzeln/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Startseite](/neuewurzeln/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)

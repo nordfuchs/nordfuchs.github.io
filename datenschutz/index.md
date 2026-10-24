@@ -223,4 +223,4 @@ die von mir veranlasste Datenverarbeitung ändert, werde ich
 diese Datenschutzerklärung entsprechend aktualisieren.
 
 ---  
-[Impressum](/impressum/) | [Zurück zur Hauptseite](/)
+[Impressum](/impressum/) // [Zurück zur Hauptseite](/)

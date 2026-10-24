@@ -5,4 +5,4 @@ Wir ziehen nach Hamburg um. Zwischen all den ganzen Terminen, Plänen und dem ga
 [2026-10-22: Der Anruf](2026-10-22_der-anruf) 
 
 ---  
-[Hauptseite](/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Hauptseite](/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)

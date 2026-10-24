@@ -11,7 +11,7 @@ Geh bitte zur Rezepte-Übersicht auf der Startseite :)
 
 ---
 
-[Startseite](/seelenfrikadelle/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Startseite](/seelenfrikadelle/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)
 
 
 

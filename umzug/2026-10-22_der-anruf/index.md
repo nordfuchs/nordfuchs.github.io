@@ -13,4 +13,4 @@ Ich habe alle Briefmarken, die ich noch hatte, zusammen gesammelt und Marcus hie
 Eine gute Stunde sortiere ich nun schon aus. Ich glaube, ich mache die zwei Stunden heute voll, dann die Schluss und die Augen zu für heute.
 
 ---  
-[Startseite](/umzug/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Startseite](/umzug/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)

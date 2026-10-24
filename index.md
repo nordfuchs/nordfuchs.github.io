@@ -20,4 +20,4 @@ Blog-Übersicht:
   Hamburg, wir kommen.
 
 ---  
-[Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Impressum](/impressum/) // [Datenschutz](/datenschutz/)

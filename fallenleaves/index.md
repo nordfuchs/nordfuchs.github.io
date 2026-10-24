@@ -31,4 +31,4 @@ Diese Liste wird nach und nach ergänzt.
 Die Albumcover sowie die Album- und Trackmetadaten werden von Spotify bereitgestellt. Alle Rechte an den dargestellten Inhalten liegen bei den jeweiligen Rechteinhabern. Die Metadaten können teilweise durch eigene Kommentare und Meinungen ergänzt sein.
 
 ---  
-[Hauptseite](/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Hauptseite](/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)

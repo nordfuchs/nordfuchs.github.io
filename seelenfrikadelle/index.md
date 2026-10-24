@@ -13,7 +13,7 @@ So lange ich noch keine Fotos von den Gerichten gemacht habe, gibt es hier Platz
 
 ---
 
-[Hauptseite](/) | [Impressum](/impressum/) | [Datenschutz](/datenschutz/)
+[Hauptseite](/) // [Impressum](/impressum/) // [Datenschutz](/datenschutz/)
 
 
 

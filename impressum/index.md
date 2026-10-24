@@ -17,4 +17,4 @@ Hohenmoorstraße 37
 26135 Oldenburg
 
 ---  
-[Zurück zur Hauptseite](/) | [Datenschutz](/datenschutz/)
+[Zurück zur Hauptseite](/) // [Datenschutz](/datenschutz/)
