@@ -18,6 +18,9 @@ Blog-Übersicht:
   
   - [Umzug nach Hamburg](umzug)  
   Hamburg, wir kommen.
+  
+  - [Urbane Mine](urbanemine)
+  Eine Webseite über *Urban Mining*, der Wiederverwendung von Ressourcen
 
 ---  
 [Impressum](/impressum/) // [Datenschutz](/datenschutz/)
