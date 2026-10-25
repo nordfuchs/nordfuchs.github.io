@@ -1,6 +1,5 @@
 # Urbane Mine
 
-Der Name "Urbane Mine" kommt vom Begriff [Urban Mining](https://de.wikipedia.org/w/index.php?title=Urban_Mining&oldid=261601514), der Wiederverwendung von gebrauchten Rohstoffen aus z. B. Abbrüchen von Gebäuden. Für mich zählen auch die kleinen ressourcensparenden Dinge dazu. Ich halte hier ein paar meiner Ressourcen-Schürfungen fest.
 
 ---
 
@@ -10,12 +9,19 @@ Der Name "Urbane Mine" kommt vom Begriff [Urban Mining](https://de.wikipedia.org
 
 ---
 
-Mir gefällt der Gedanke der Wiederverwendung und Wiederverwertung, getreu dem Motto *Reduce, Reuse, Recycle*. Für mich ist *Urban Mining* viel mehr als nur die Verwendung großer Bauelemente oder Baustoffe; für mich sind die kleinen Dinge genauso wichtig. 
+Der Name "Urbane Mine" kommt vom Begriff [Urban Mining](https://de.wikipedia.org/w/index.php?title=Urban_Mining&oldid=261601514), der Wiederverwendung von gebrauchten Rohstoffen aus z. B. Abbrüchen von Gebäuden. Von Gebäuden, die abgebrochen werden sollen, wird zuerst ein digitales und analoges Screening gemacht, um zu sehen, welche Teile noch verwertet werden können. Danach wird überlegt: was kann man mit diesen Teilen noch machen? Das Gebäude wird abgebrochen, die geplanten Teile gerettet und gelagert, gegebenenfalls noch wieder aufbereitet. Später kann dann ein Neubau geplant werden unter Verwendung der geretteten Teile.
 
-Wie das Thema *Urban Mining* in großen Dimensionen verstanden wird, gibt es hier zu lesen:
+*Urban Mining* betrifft also hauptsächlich das Baugewerbe und generell die Rückgewinnung von Rohstoffen (beispielsweise aus Elektronikgeräten).
+
+Ich mag den Begriff *Urban Mining*. Ich betrachte die Stadt tatsächlich als "Mine", aus der man eine Menge noch nutzbarer Sachen ziehen kann. Nur sehe ich das Dinge retten und wieder nutzbar machen durchaus auch als *Urban Mining*, auch wenn manche das, was ich machen, vielleicht eher *Upcycling* nennen würden.   
+  
+**Es geht also in meinem Blog um Ressourcen sparen, Dinge wieder aufbereiten, Dingen ein neues Leben einhauchen.**
+
+Wie das Thema *Urban Mining* offiziell und in großen Dimensionen verstanden wird, gibt es hier zu lesen:
 
   - [Wikipedia](https://de.wikipedia.org/w/index.php?title=Urban_Mining&oldid=261601514)
   - [Umweltbundesamt](https://www.umweltbundesamt.de/themen/abfall-ressourcen/abfallwirtschaft/urban-mining)
+  - [Umweltbundesamt: Broschüre](https://www.umweltbundesamt.de/publikationen/urban-mining-ressourcenschonung-im-anthropozaen)
   - [FONA](https://www.fona.de/de/massnahmen/foerdermassnahmen/urbanmining.php)
 
 ---    
