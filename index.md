@@ -5,13 +5,16 @@
 Blog-Übersicht:
 
   - [Fallen Leaves](fallenleaves)   
-  Musikempfehlungen  
+  düstere Musikempfehlungen  
   
   - [Gott ist mein Hirte](gottistmeinhirte)   
-  Ein paar Gedanken rund um die Bibel    
+  ein paar Gedanken rund um die Bibel    
+  
+  - [KI Sammelkarten](kisammelkarten)  
+  Sammelkarten, mit KI erstellt, real ausgedruckt
   
   - [Neue Wurzeln](neuewurzeln)   
-  Mein neues altes Hobby: Pflanzenvermehrung  
+  mein neues altes Hobby: Pflanzenvermehrung  
   
   - [Seelenfrikadelle](seelenfrikadelle)   
   Rezepte - lecker lecker.  
@@ -20,7 +23,7 @@ Blog-Übersicht:
   Hamburg, wir kommen.
   
   - [Urbane Mine](urbanemine)    
-  Eine Webseite über *Urban Mining*, der Wiederverwendung von Ressourcen
+  eine Webseite über *Urban Mining*, der Wiederverwendung von Ressourcen
 
 ---  
 [Impressum](/impressum/) // [Datenschutz](/datenschutz/)
