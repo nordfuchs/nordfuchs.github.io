@@ -334,3 +334,42 @@ h1 span { color: var(--violet); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
+
+/* Sortier-Button für die Kartengalerie */
+.sort-toggle {
+  margin-top: 0.5rem;
+  padding: 0.7rem 1.2rem;
+
+  border: 1px solid currentColor;
+  border-radius: 999px;
+
+  background: transparent;
+  color: inherit;
+
+  font: inherit;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition:
+    background-color 0.2s ease,
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+/* Hover-Effekt */
+.sort-toggle:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+
+/* Tastaturbedienung */
+.sort-toggle:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+/* Während des Ladens */
+.sort-toggle:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
